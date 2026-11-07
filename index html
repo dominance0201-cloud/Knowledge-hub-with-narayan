@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Knowledge Hub with Narayan</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    color: #222;
+}
+
+header {
+    background: #123456;
+    color: white;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+nav {
+    background: #222;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.container {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ddd;
+}
+
+h2 {
+    color: #123456;
+}
+
+footer {
+    background: #123456;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Knowledge Hub with Narayan</h1>
+<p>Education, Knowledge and Success</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#education">Education</a>
+<a href="#history">History</a>
+<a href="#current">Current Affairs</a>
+</nav>
+
+<div class="container">
+
+<section id="home" class="card">
+<h2>Welcome to Knowledge Hub</h2>
+<p>Your destination for learning, knowledge and information.</p>
+</section>
+
+<section id="education" class="card">
+<h2>Education</h2>
+<p>Learn new things and improve your knowledge.</p>
+</section>
+
+<section id="history" class="card">
+<h2>History</h2>
+<p>Explore Indian and World History.</p>
+</section>
+
+<section id="current" class="card">
+<h2>Current Affairs</h2>
+<p>Read important current affairs and general knowledge.</p>
+</section>
+
+</div>
+
+<footer>
+<p>© 2026 Knowledge Hub with Narayan</p>
+<p>Learn Today, Lead Tomorrow</p>
+</footer>
+
+</body>
+</html>
